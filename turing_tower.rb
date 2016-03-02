@@ -11,8 +11,4 @@ def move_tower
       pile << temp
     else
 
-
-
-
-
 end
